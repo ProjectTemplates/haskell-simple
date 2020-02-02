@@ -1,8 +1,9 @@
 {
-    "project_name": "my-project",
+    "directory_name": "project",
+    "project_name": "project",
     "version": "0.1.0",
     "remote_vcs": "github.com",
     "remote_vcs_user": null,
-    "maintainer": "0.1.0",
-    "maintainer_email": "0.1.0",
+    "maintainer": "",
+    "maintainer_email": ""
 }
