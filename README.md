@@ -1,1 +1,1 @@
-# Мой шаблон для проектов на Haskell
+# Simple Haskell template for projects with *stack*
