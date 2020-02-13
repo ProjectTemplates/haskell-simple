@@ -1,4 +1,4 @@
-cabal-version: 1.12
+cabal-version: {{cookiecutter.cabal_version}}
 
 name:           {{cookiecutter.project_name}}
 version:        {{cookiecutter.version}}
