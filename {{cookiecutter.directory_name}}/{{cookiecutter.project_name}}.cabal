@@ -5,8 +5,8 @@ version:        {{cookiecutter.version}}
 --description:    Please see the README at <https://repo-url#readme>
 --homepage:       https://repo-url#readme
 --bug-reports:    https://repo-url/issues
---author:       name
---maintainer:   email
+--author:         name
+--maintainer:     email
 build-type:     Simple
 extra-source-files:
     README.md
