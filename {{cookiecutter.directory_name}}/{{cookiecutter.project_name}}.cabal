@@ -2,18 +2,18 @@ cabal-version: {{cookiecutter.cabal_version}}
 
 name:           {{cookiecutter.project_name}}
 version:        {{cookiecutter.version}}
-description:    Please see the README at <https://{{cookiecutter.remote_vcs}}/{{cookiecutter.remote_vcs_user}}/{{cookiecutter.project_name}}#readme>
-homepage:       https://{{cookiecutter.remote_vcs}}/{{cookiecutter.remote_vcs_user}}/{{cookiecutter.project_name}}#readme
-bug-reports:    https://{{cookiecutter.remote_vcs}}/{{cookiecutter.remote_vcs_user}}/{{cookiecutter.project_name}}/issues
-author:         {{cookiecutter.maintainer}}
-maintainer:     {{cookiecutter.maintainer_email}}
+--description:    Please see the README at <https://repo-url#readme>
+--homepage:       https://repo-url#readme
+--bug-reports:    https://repo-url/issues
+--author:       name
+--maintainer:   email
 build-type:     Simple
 extra-source-files:
     README.md
 
-source-repository head
-  type: git
-  location: https://{{cookiecutter.remote_vcs}}/{{cookiecutter.remote_vcs_user}}/{{cookiecutter.project_name}}
+--source-repository head
+--  type: git
+--  location: https://repo-url
 
 executable {{cookiecutter.project_name}}-exe
   main-is: Main.hs
