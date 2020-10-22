@@ -2,10 +2,6 @@
     "directory_name": "project",
     "project_name": "project",
     "version": "0.1.0",
-    "remote_vcs": "github.com",
-    "remote_vcs_user": "",
-    "maintainer": "",
-    "maintainer_email": "",
     "resolver_version": "lts-14.8",
     "cabal_version": "1.12"
 }
